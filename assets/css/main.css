@@ -1231,6 +1231,8 @@ input, select, textarea {
 
 /* Poptrox */
 
+/*
+
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
 		-webkit-box-sizing: content-box;
@@ -1396,7 +1398,7 @@ input, select, textarea {
 			opacity: 1.0 !important;
 		}
 
-		@media screen and (max-width: 736px) {
+	@media screen and (max-width: 736px) {
 
 			.poptrox-popup .nav-next:before,
 			.poptrox-popup .nav-previous:before {
@@ -1417,6 +1419,8 @@ input, select, textarea {
 			}
 
 		}
+
+*/
 
 /* Gallery */
 
@@ -1819,6 +1823,8 @@ input, select, textarea {
 				-ms-flex-direction: column;
 				flex-direction: column;
 			}
+            
+            
 
 				.gallery article {
 					width: 100%;
