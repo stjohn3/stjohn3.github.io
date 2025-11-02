@@ -2289,7 +2289,8 @@ input, select, textarea {
 		background: url("images/overlay.png"), url("../../images/Me.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+        background-position: 0% 99%;
+		/*background-position: top left, bottom center; */
 		background-repeat: repeat, no-repeat;
 	}
 
